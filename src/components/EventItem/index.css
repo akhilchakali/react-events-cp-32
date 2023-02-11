@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.img {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+.li-cont {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  margin: 10px;
+  font-size: 9px;
+  color: white;
+}

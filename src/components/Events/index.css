@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.un {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cont {
+  width: 70%;
+  background-color: #3a4b63;
+  color: white;
+
+  padding: 10px;
+}
+.main {
+  display: flex;
+}
